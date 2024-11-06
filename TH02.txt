@@ -1,0 +1,5 @@
+M? project seleap->t?o môi trg ?o->terminal->commandpromt
+pip install -r requirements.txt
+python -m ensurepip --upgrade
+py -m pip install --upgrade pip
+pip install -r requirements.txt
